@@ -1,0 +1,14 @@
+{
+  "name": "smallProject-TypeScript",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/BM-BrunoMarques/smallProject-TypeScript.git",
+  "author": "Bruno <bruno.fdm93@gmail.com>",
+  "license": "MIT",
+  "scripts":{
+    "start":"lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
