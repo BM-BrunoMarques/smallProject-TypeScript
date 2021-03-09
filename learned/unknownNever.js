@@ -1,9 +1,10 @@
+"use strict";
 var userInput;
-var userName;
+var userNam;
 userInput = 5;
 userInput = 'Bruno';
 if (typeof userInput === 'string') {
-    userName = userInput;
+    userNam = userInput;
 }
 function generateError(message, code) {
     throw { message: message, errorCode: code };
